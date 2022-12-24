@@ -1,0 +1,31 @@
+.profile{
+    display: flex;
+    justify-content: center;
+
+}
+
+.profile img{
+    width:396px;
+    height: 232px;
+    margin-top: 26px;
+}
+
+.experience{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 110%;
+    margin: 32px 0px 0px 36px;
+}
+
+.exp-para{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 110%;
+    color: #222222;
+    margin: 16px 0px 0px 36px;
+    max-width: 320px;
+}
