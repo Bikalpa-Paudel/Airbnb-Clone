@@ -3,4 +3,13 @@
   height: 853px;
   border-radius: 9px;
   background-color: #ffffff;
+
+}
+
+.cardComponent{
+  display: flex;
+  overflow: scroll;
+  overflow-y: hidden;
+  margin: 49px 0 0 37px;
+
 }
