@@ -13,3 +13,10 @@
   margin: 49px 0 0 37px;
 
 }
+
+@media screen and (max-width:450px) {
+  .container{
+      width: 450px
+  }
+  
+}
